@@ -86,29 +86,7 @@ You will be greeted with an interactive menu:
 
 Use the **arrow keys** to navigate and **Enter** to select an option.
 
----
 
-## 📸 Screenshots
-
-> **Note:** Replace the placeholders below with your own screenshots.
-
-### Main Menu
-
-![Main Menu](screenshots/menu.png)
-
-### Habit Analytics
-
-![Analytics Report](screenshots/analytics.png)
-
-### Streak Result
-
-![Streak Result](screenshots/streak.png)
-
-### Test Results
-
-![Test Results](screenshots/tests.png)
-
----
 
 ## 🧪 Running the Tests
 
