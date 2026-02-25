@@ -127,12 +127,7 @@ habit_tracker/
 ├── test_project.py      # Comprehensive pytest test suite
 ├── habits.json          # Runtime data (created on first run)
 ├── .gitignore           # Git ignore rules
-├── README.md            # This file
-└── screenshots/         # Your screenshots go here
-    ├── menu.png
-    ├── analytics.png
-    ├── streak.png
-    └── tests.png
+└── README.md            # This file
 ```
 
 ---
